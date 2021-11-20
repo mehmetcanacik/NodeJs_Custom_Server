@@ -1,0 +1,15 @@
+{
+  "name": "my_custom_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baseServer.js",
+  "scripts": {
+    "start": "nodemon baseServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
